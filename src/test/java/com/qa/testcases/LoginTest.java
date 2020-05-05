@@ -7,7 +7,7 @@ public class LoginTest {
 	@Test
 	public void loginPageTitle()
 	{
-		System.out.println("This is loginPageTitle in LoginTest class");
+		System.out.println("This is loginPageTitle method");
 	}
 
 }
